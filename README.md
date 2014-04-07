@@ -1,4 +1,4 @@
 Test-repo
 =========
 
-This is test repo
+Welcome to my first repo.
